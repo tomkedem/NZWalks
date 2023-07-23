@@ -154,3 +154,10 @@ C:\Users\Tom\Desktop\MyGoal\DotNet7\NZWalks\NZWalks.API\obj\Debug\net7.0\refint\
 C:\Users\Tom\Desktop\MyGoal\DotNet7\NZWalks\NZWalks.API\obj\Debug\net7.0\NZWalks.API.pdb
 C:\Users\Tom\Desktop\MyGoal\DotNet7\NZWalks\NZWalks.API\obj\Debug\net7.0\NZWalks.API.genruntimeconfig.cache
 C:\Users\Tom\Desktop\MyGoal\DotNet7\NZWalks\NZWalks.API\obj\Debug\net7.0\ref\NZWalks.API.dll
+C:\Users\Tom\Desktop\MyGoal\DotNet7\NZWalks\NZWalks.API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Tom\Desktop\MyGoal\DotNet7\NZWalks\NZWalks.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Tom\Desktop\MyGoal\DotNet7\NZWalks\NZWalks.API\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Tom\Desktop\MyGoal\DotNet7\NZWalks\NZWalks.API\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Tom\Desktop\MyGoal\DotNet7\NZWalks\NZWalks.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Tom\Desktop\MyGoal\DotNet7\NZWalks\NZWalks.API\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Tom\Desktop\MyGoal\DotNet7\NZWalks\NZWalks.API\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
